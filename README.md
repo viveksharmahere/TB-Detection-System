@@ -13,3 +13,6 @@ This project uses a **Convolutional Neural Network (CNN)** to automatically dete
 - **NumPy** for data manipulation
 - **Matplotlib** for data visualization
 - **scikit-learn** for data splitting
+
+## Dataset
+The dataset used in this project is available on [Kaggle]([https://www.kaggle.com/your-dataset-link](https://www.kaggle.com/datasets/viveksharmahere36/tb-dataset)). Please visit the link to access the dataset.
